@@ -4,7 +4,7 @@ import { analyzeImage } from '../lib/gemini';
 import SupportBlock from '../components/SupportBlock';
 
 // Default flower image path
-const DEFAULT_IMAGE = "/default-flower.jpg";
+const DEFAULT_IMAGE = "/default-flower.webp";
 
 // Default analysis for the flower
 const DEFAULT_ANALYSIS = `1. Species Identification:
